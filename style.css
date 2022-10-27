@@ -5,3 +5,7 @@
 .card-body h5{
     font-family: 'Roboto Mono', monospace;
 }
+
+.certificados img{
+    width: 200px;
+}
